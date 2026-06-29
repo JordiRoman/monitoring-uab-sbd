@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aules.sbd.uab.cat.ico",
     "slug": "guacamole-aules",
     "status": "down",
-    "uptime": "98.37%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "98.37%",
+    "uptime": "98.29%",
+    "uptimeDay": "89.43%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "98.29%",
     "time": 1498,
     "timeDay": 1271,
     "timeWeek": 2292,
@@ -93,7 +93,7 @@
       "2026-06-11": 78,
       "2026-06-14": 64,
       "2026-06-16": 307,
-      "2026-06-29": 20
+      "2026-06-29": 152
     }
   },
   {
@@ -102,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sbd.uab.cat.ico",
     "slug": "chispa-www",
     "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "98.46%",
+    "uptime": "98.38%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "97.37%",
+    "uptimeYear": "98.38%",
     "time": 1226,
     "timeDay": 1433,
     "timeWeek": 1156,
@@ -132,7 +132,7 @@
       "2026-06-11": 73,
       "2026-06-14": 60,
       "2026-06-16": 303,
-      "2026-06-29": 15
+      "2026-06-29": 147
     }
   },
   {
@@ -141,11 +141,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.sbd.uab.cat.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "97.34%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.34%",
+    "uptime": "97.26%",
+    "uptimeDay": "90.10%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.26%",
     "time": 1463,
     "timeDay": 2473,
     "timeWeek": 3047,
@@ -171,7 +171,7 @@
       "2026-06-11": 68,
       "2026-06-14": 55,
       "2026-06-16": 298,
-      "2026-06-29": 10
+      "2026-06-29": 143
     }
   },
   {
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/glpi.sbd.uab.cat.ico",
     "slug": "glpi",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "99.27%",
+    "uptime": "99.18%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "99.18%",
     "time": 1241,
     "timeDay": 1948,
     "timeWeek": 1404,
@@ -208,7 +208,7 @@
       "2026-06-11": 63,
       "2026-06-14": 50,
       "2026-06-16": 293,
-      "2026-06-29": 5
+      "2026-06-29": 138
     }
   },
   {
@@ -217,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uspace-alpha-pc.uab.cat.ico",
     "slug": "uspace-alpha-pc",
     "status": "down",
-    "uptime": "96.36%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "96.36%",
+    "uptime": "96.28%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "96.28%",
     "time": 719,
     "timeDay": 458,
     "timeWeek": 703,
@@ -250,7 +250,7 @@
       "2026-06-11": 58,
       "2026-06-14": 45,
       "2026-06-16": 288,
-      "2026-06-29": 0
+      "2026-06-29": 133
     }
   }
 ]
