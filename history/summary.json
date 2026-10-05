@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aules.sbd.uab.cat.ico",
     "slug": "guacamole-aules",
     "status": "up",
-    "uptime": "91.96%",
+    "uptime": "91.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "91.96%",
+    "uptimeYear": "91.98%",
     "time": 1494,
     "timeDay": 1368,
     "timeWeek": 1443,
@@ -295,16 +295,16 @@
     "url": "https://uspace-alpha-pc.uab.cat/",
     "icon": "https://icons.duckduckgo.com/ip3/uspace-alpha-pc.uab.cat.ico",
     "slug": "uspace-alpha-pc",
-    "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "97.60%",
+    "status": "up",
+    "uptime": "97.44%",
+    "uptimeDay": "65.86%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "97.44%",
     "time": 729,
-    "timeDay": 537,
-    "timeWeek": 708,
-    "timeMonth": 717,
+    "timeDay": 575,
+    "timeWeek": 696,
+    "timeMonth": 714,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2026-03-13": 1015,
@@ -342,7 +342,7 @@
       "2026-09-06": 85,
       "2026-09-10": 39,
       "2026-09-28": 43,
-      "2026-10-05": 0
+      "2026-10-05": 492
     }
   }
 ]
